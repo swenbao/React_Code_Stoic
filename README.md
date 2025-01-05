@@ -4,4 +4,4 @@
 我看的教學是 [ReactJS Tutorial For Beginners](https://youtube.com/playlist?list=PLSsAz5wf2lkK_ekd0J__44KG6QoXetZza&si=njMAkwU53KVn_M0f) <br>
 以下是筆記
 
-[筆記 ReactJS Tutorial 1 : Introduction To ReactJS](https://hackmd.io/@swenbao/H1ISxZOIyl)
+1. [筆記 ReactJS Tutorial 1 : Introduction To ReactJS](https://hackmd.io/@swenbao/H1ISxZOIyl)
