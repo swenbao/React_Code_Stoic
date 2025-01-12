@@ -5,3 +5,5 @@
 以下是筆記
 
 1. [筆記 ReactJS Tutorial 1 : Introduction To ReactJS](https://hackmd.io/@swenbao/H1ISxZOIyl)
+
+2. [筆記 ReactJS Tutorial 3 : Create React App Using VITE](https://hackmd.io/@swenbao/Sk73jm-Pyg)
