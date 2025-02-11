@@ -9,3 +9,5 @@
 2. [筆記 ReactJS Tutorial 3 : Create React App Using VITE](https://hackmd.io/@swenbao/Sk73jm-Pyg)
 
 3. [筆記 ReactJS Tutorial 4 : How React App Works](https://hackmd.io/@swenbao/SkCjEoItyx)
+
+4. [筆記 ReactJS Tutorial 5 : Creating A Component In React](https://hackmd.io/@swenbao/S1677NKYyx)
