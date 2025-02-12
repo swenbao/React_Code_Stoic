@@ -1,5 +1,5 @@
 function Hello() {
-  return <h1>Hello from a component</h1>;
+  return <h1>Hello You Mother Fucker</h1>;
 }
 
 export default Hello;
