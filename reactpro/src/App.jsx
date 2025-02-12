@@ -1,9 +1,11 @@
+import Hello from './components/Hello'
+
 function App() {
   return (
     <div className="App">
-      Suck My Dick!
+      <Hello />
     </div>
-  )
+  );
 }
 
 export default App
