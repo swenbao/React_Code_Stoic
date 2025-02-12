@@ -11,3 +11,5 @@
 3. [筆記 ReactJS Tutorial 4 : How React App Works](https://hackmd.io/@swenbao/SkCjEoItyx)
 
 4. [筆記 ReactJS Tutorial 5 : Creating A Component In React](https://hackmd.io/@swenbao/S1677NKYyx)
+
+5. [筆記 ReactJS Tutorial 7 : What Is JSX In React](https://hackmd.io/@swenbao/rJi9AAFYyl)
