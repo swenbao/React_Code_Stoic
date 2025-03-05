@@ -1,10 +1,8 @@
 // 新增 props 當作參數
-function Hello(props) {
-  console.log(props);
-  const {message, name} = props;
+function Hello({ person }) { // destructuring
   return (
     <h1>
-      {message} {name}
+      {person.message} {person.name} {person.emoji} {person.seatNumbers}
     </h1>
   );
 }

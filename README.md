@@ -13,3 +13,15 @@
 4. [筆記 ReactJS Tutorial 5 : Creating A Component In React](https://hackmd.io/@swenbao/S1677NKYyx)
 
 5. [筆記 ReactJS Tutorial 7 : What Is JSX In React](https://hackmd.io/@swenbao/rJi9AAFYyl)
+
+6. [筆記 ReactJS Tutorial 8 : Reusability of Components In React](https://hackmd.io/@swenbao/HJl65k9Ykx)
+
+7. [筆記 ReactJS Tutorial 9 : What are Props In React](https://hackmd.io/@swenbao/rJVo_-9FJx)
+
+8. [筆記 ReactJS Tutorial 10 : Destructuring Props](https://hackmd.io/@swenbao/Sk0jG_qK1x)
+
+9. [筆記 ReactJS Tutorial 11 : Immutability of Props](https://hackmd.io/@swenbao/HJB-Haitke)
+
+10. [# 筆記：ReactJS Tutorial 12 - Passing Arrays & Objects To Components Using Props](https://hackmd.io/@swenbao/BypsozQc1g)
+
+11. []()
